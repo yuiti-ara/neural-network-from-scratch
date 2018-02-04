@@ -1,1 +1,1 @@
-Neural Network implementation for studying purposes
+Neural Network implementation using numpy for studying purposes
